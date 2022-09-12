@@ -1,5 +1,5 @@
-- 👋 Hi, Ioniel
-- 👀 I’m interested in Bash, Python and R
+- 👋 Hi, My name is Ioniel
+- 👀 I’m interested in Bash, Python and R (bioinformatics)
 - 🌱 I’m currently learning all of the above, also Evolutionary Biology
 
 <!---
